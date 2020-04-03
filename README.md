@@ -2,7 +2,7 @@
 
 #### By _**Vaughn McPherson**_
 
-![TitlePageImage](.GymTracker.png)
+![TitlePageImage](https://streetfighter.com/wp-content/uploads/2019/11/portrait-zangief-2.jpg)
 
 ## Description
 _This is a fullstack program that helps create and document a workout routine. Simply enter an exercise and the app keeps track of your history and progress. _
